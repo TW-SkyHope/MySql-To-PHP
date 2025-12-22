@@ -1,8 +1,8 @@
-# MySQLiPDO - PHP MySQL操作库
+# MySql-To-PHP MySQL操作库
 
 ## 项目简介
 
-MySQLiPDO是一个基于PDO的PHP MySQL操作库，提供了简洁、安全、高效的数据库操作接口。用户无需编写任何SQL语句，所有操作通过PHP数据类型完成，极大简化了数据库开发工作。
+MySql-To-PHP是一个基于PDO的PHP MySQL操作库，提供了简洁、安全、高效的数据库操作接口。用户无需编写任何SQL语句，所有操作通过PHP数据类型完成，极大简化了数据库开发工作。
 
 ### 核心价值
 
