@@ -25,7 +25,7 @@ MySql-To-PHP是一个基于PDO的PHP MySQL操作库，提供了简洁、安全�
 1. 下载 `mysql.php` 文件到您的项目目录
 2. 在需要使用的PHP文件中引入该文件：
    ```php
-   require_once 'path/to/mysql.php';
+   require_once 'mysql.php';
    ```
 
 ## 使用方法
