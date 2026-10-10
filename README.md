@@ -1,4 +1,4 @@
-# MySql-To-PHP MySQL操作库
+# MySql-To-PHP MySQL操作库(已停止维护)
 
 ## 项目简介
 
